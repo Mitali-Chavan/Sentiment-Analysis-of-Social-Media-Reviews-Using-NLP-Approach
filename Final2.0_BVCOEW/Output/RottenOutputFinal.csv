@@ -1,0 +1,296 @@
+,c1,sentiment_neg,sentiment_pos,sentiment_neu,sentiment_compound,sentiment
+0,various internet service provider 1) reliance: 4 mbps 2) bsnl: 12 mbps,0.0,0.0,1.0,0.0,neutral
+1,wi-fi wireless access point,0.0,0.0,1.0,0.0,neutral
+2,separate generator setup: 125 kva,0.0,0.0,1.0,0.0,neutral
+3,ladies gymnasium,0.0,0.0,1.0,0.0,neutral
+4,ladies hostel intake 200 nos,0.0,0.0,1.0,0.0,neutral
+5,started p.g. course: intake=18 (vlsi & embedded sysytems),0.0,0.0,1.0,0.0,neutral
+6,highly qualified faculty members,0.0,0.0,1.0,0.0,neutral
+7,counseling carrier guidance programs,0.0,0.0,1.0,0.0,neutral
+8,tcs accreditation,0.0,0.0,1.0,0.0,neutral
+9,entrepreneurship development cell,0.0,0.0,1.0,0.0,neutral
+10,"student staff chapters: iei, iete, iste, csi""",0.0,0.0,1.0,0.0,neutral
+11,"industry-institute interaction: mou, industrial visit, expert lectures conductedforstudents""",0.0,0.0,1.0,0.0,neutral
+12,engineering college exclusively women,0.0,0.0,1.0,0.0,neutral
+13,"affiliated university pune, approved aicte, new delhi dte ,mumbai""",0.0,0.177,0.823,0.4215,positive
+14,"general insurance policy, earn & learn scheme university pune""",0.0,0.0,1.0,0.0,neutral
+15,holds placement record,0.0,0.492,0.508,0.4404,positive
+16,interaction colleges various student chapters,0.0,0.0,1.0,0.0,neutral
+17,entrepreneurship development program,0.0,0.0,1.0,0.0,neutral
+18,well-equipped laboratories state art equipment licensed software,0.0,0.0,1.0,0.0,neutral
+19,strong industry-institute interaction,0.0,0.623,0.377,0.5106,positive
+20,highly dedicated qualified faculty,0.0,0.452,0.548,0.5095,positive
+21,ample counseling carrier guidance programforstudents,0.0,0.0,1.0,0.0,neutral
+22,"qualified, experienced dedicated teaching faculty retention ratio.""",0.0,0.349,0.651,0.7096,positive
+23,laboratories state art equipment modern software tools.,0.0,0.0,1.0,0.0,neutral
+24,faculty contributing design development implementation curriculum board studies affiliating university.,0.0,0.0,1.0,0.0,neutral
+25,effective use ict teaching learning process.,0.0,0.307,0.693,0.4767,positive
+26,"student centric functioning mentoring, counseling teachers effective academic monitoring.""",0.0,0.205,0.795,0.4767,positive
+27,active nss unit.,0.0,0.574,0.426,0.4019,positive
+28,professional society chapters every department.,0.0,0.0,1.0,0.0,neutral
+29,safe secured environment girl students.,0.0,0.528,0.472,0.6808,positive
+30,less industry institute interaction.,0.0,0.0,1.0,0.0,neutral
+31,moderate placement ratio.,0.0,0.0,1.0,0.0,neutral
+32,institute lacks revenue generation.,0.0,0.0,1.0,0.0,neutral
+33,less student pursuing higher education.,0.0,0.0,1.0,0.0,neutral
+34,involvement alumni institute level less.,0.0,0.0,1.0,0.0,neutral
+35,arrange number fdps /sttps/ national level /international level conferences.,0.0,0.117,0.883,0.1513,positive
+36,arrange specialized training programs faculty.,0.0,0.0,1.0,0.0,neutral
+37,scope interdisciplinary sponsored projects.,0.0,0.0,1.0,0.0,neutral
+38,scope improvement digital literacy amongst women.,0.0,0.25,0.75,0.4588,positive
+39,needs strengthen industry-institute interaction.,0.0,0.315,0.685,0.3182,positive
+40,aim placements core companies.,0.0,0.0,1.0,0.0,neutral
+41,encouraging students competitive examinations higher studies.,0.0,0.389,0.611,0.6249,positive
+42,concentrate networking strengthening relationship stakeholders.,0.0,0.242,0.758,0.4939,positive
+43,focus industrial training faculty students.,0.0,0.0,1.0,0.0,neutral
+44,girl studentsare varied socio- economic background challenging,0.0,0.151,0.849,0.1531,positive
+45,"""the objective impart quality education computer engineering equip budding engineers right knowledge propel path success country abroad. long term goal harness skills faculty students create technically sound learning environment beneficial industry, society field technical innovation. also support students organizing technical events.""",0.0,0.154,0.846,0.9186,positive
+46,"""department equipped licenses application specific software like oracle 9i, matalab 7.0 etc., microsoft campus licenses deploy variety application/development software like visual studio, sql server microsoft .net etc. leased line connectivity 4mbps bandwidth provide high speed internet facility, dedicated project lab final students. final students encouraged publish papers topics latest technology referring ieee journal papers encouraged publish papers topic referred projects.""",0.0,0.143,0.857,0.9001,positive
+47,"""the faculty forms core strength expertise laying strong foundation basic subjects like database concepts, data structures, computer architecture well advanced areas like wireless communication, smartcard technologies, network security, neural networks etc. internet facility provided systems match pace fast growing information technologysector.""",0.0,0.279,0.721,0.9493,positive
+48,strengths:,0.0,1.0,0.0,0.4019,positive
+49,"""it follow student centric process (guardian faculty member, mentor).""",0.0,0.0,1.0,0.0,neutral
+50,conducive working learning leading faculty staff retention,0.0,0.0,1.0,0.0,neutral
+51,infrastructure facility well-equipped laboratories classrooms.,0.0,0.293,0.707,0.4404,positive
+52,encouraging environment students participate technical social activities.,0.0,0.254,0.746,0.5267,positive
+53,effective academic monitoring leads improvement student performance.,0.0,0.504,0.496,0.7269,positive
+54,"co-curricular activities like nss, students association lead overall development students.""",0.0,0.172,0.828,0.3612,positive
+55,lack consultancy project.,0.434,0.0,0.566,-0.3182,negative
+56,room improvement aptitude communication skill students.,0.0,0.214,0.786,0.4588,positive
+57,less research publication scopus web science citation.,0.0,0.0,1.0,0.0,neutral
+58,mous research projects industry institute interaction need improved.,0.0,0.237,0.763,0.4767,positive
+59,promoting industrial training staff.,0.0,0.294,0.706,0.3612,positive
+60,"contribution conducting faculty development programme. short term training programme, conference""",0.0,0.0,1.0,0.0,neutral
+61,focus exploring higher internship opportunities students.,0.0,0.224,0.776,0.3818,positive
+62,focus conduction value added technical certifications students.,0.0,0.167,0.833,0.34,positive
+63,promoting interdisciplinary projects.,0.0,0.385,0.615,0.3612,positive
+64,focus better quality publication peer reviewed journals,0.0,0.225,0.775,0.4404,positive
+65,"promoting consultancy, sponsored project mous industry challenging""",0.0,0.313,0.687,0.4767,positive
+66,weak alumni interaction.,0.592,0.0,0.408,-0.4404,negative
+67,training major hub students coming rural background difficult challenging,0.155,0.099,0.745,-0.2263,negative
+68,focus implementation enterprise resource planning.,0.0,0.0,1.0,0.0,neutral
+69,focus receive funding various funding agencies.,0.0,0.0,1.0,0.0,neutral
+70,introduce pg course department.,0.0,0.0,1.0,0.0,neutral
+71,organizing fdp/sttp faculty development.,0.0,0.0,1.0,0.0,neutral
+72,focus establishing linkage developing virtual lab.,0.0,0.0,1.0,0.0,neutral
+73,"develop faculty website, blogs, forum assignment submission assessment, try hiring professional help skilled employees""",0.0,0.119,0.881,0.4019,positive
+74,create domain expertise among faculty attracting consultancy.,0.0,0.394,0.606,0.6369,positive
+75,"""it try promoting yoga strengthening faculty, students health.""",0.0,0.416,0.584,0.6908,positive
+76,gymkhana: -,0.0,0.0,1.0,0.0,neutral
+77,"""bharati vidyapeeths college engineering women, pune separate section gymkhana physical fitness students. necessary sports equipments provided students. students every year. winners felicitated annual social gathering.day, fit-india celebration, physical skill test first students annual sports weekchess competition, pune city zone intercollegiate basketball men/women competition, yogathe college university level. college organizes various events webinars,encouraged participate",0.0,0.062,0.938,0.6369,positive
+78,vision develop positive attitude students positive actions,0.0,0.505,0.495,0.8481,positive
+79,"""we strive create leaders, mentor students teach human values, healthy minds""",0.0,0.405,0.595,0.7579,positive
+80,strive develop physical mental fitness,0.0,0.231,0.769,0.2732,positive
+81,strive spread awareness sports pursuit healthy active lifestyle college beyond,0.0,0.221,0.779,0.6597,positive
+82,"""we strive develop leadership skills, healthy competition, trust responsibility group""",0.0,0.316,0.684,0.7184,positive
+83,try develop self-esteem self-confidence positive sportingexperiences,0.0,0.286,0.714,0.5574,positive
+84,"""our college library sufficient number reference books, textbooks, national international journals/periodicals satisfy requirements aicte syllabus university.""",0.0,0.152,0.848,0.5106,positive
+85,"far reading interest students concerned literatures, biographies, daily news papers (english, marathi languages), e-resources etc. also available number.",0.0,0.217,0.783,0.7351,positive
+86,library area 408 sq. m. spacious reading hall capacity near 200 students available. library facility available per need studentsandfaculty.,0.0,0.0,1.0,0.0,neutral
+87,action taken students indulging abetting ragging: cancellation admission also debarred taking admission technical institution india.,0.0,0.0,1.0,0.0,neutral
+88,action taken students indulging abetting ragging: suspension attending classes.,0.0,0.0,1.0,0.0,neutral
+89,action taken students indulging abetting ragging: withholding/withdrawing scholarship / fellowship benefits.,0.0,0.133,0.867,0.3818,positive
+90,action taken students indulging abetting ragging: debarring appearing test/ examination evaluation process,0.0,0.0,1.0,0.0,neutral
+91,action taken students indulging abetting ragging: withholding results.,0.0,0.0,1.0,0.0,neutral
+92,"""action taken students indulging abetting ragging: debarred representing institution regional, national international meet, tournament, youth festival etc.""",0.0,0.11,0.89,0.4939,positive
+93,action taken students indulging abetting ragging: suspension / expulsion institution period ranging 1 4 semesters,0.0,0.0,1.0,0.0,neutral
+94,"""action taken students indulging abetting ragging: fine rs.25,000/-.""",0.0,0.122,0.878,0.2023,positive
+95,action taken students indulging abetting ragging: collective punishment.,0.211,0.0,0.789,-0.4939,negative
+96,action taken students indulging abetting ragging: fir filed without exception localpolicestation.,0.0,0.0,1.0,0.0,neutral
+97,"""bharati vidyapeeth astonishing strides field education, particularly, higher professional education.",0.0,0.0,1.0,0.0,neutral
+98,bharati vidyapeeth mission bring social transformation dynamic education.,0.0,0.178,0.822,0.3818,positive
+99,believe educating women helps developing nation.,0.0,0.224,0.776,0.3818,positive
+100,"""the women stepped truly women substance, women proved potential again. view mind, bharati vidyapeeth started bharati vdyapeeths college engineering women 2000.""",0.0,0.066,0.934,0.4404,positive
+101,"indeed institute truly excelled boundaries establish pioneer institute women supremacy technology empowers girl students pursue passion, realize ambitions irrespective geographical scale.""",0.0,0.233,0.767,0.8519,positive
+102,support mission vision institute.,0.0,0.402,0.598,0.5719,positive
+103,focus student stakeholder needs.,0.0,0.0,1.0,0.0,neutral
+104,responsible accountable activities levels institution,0.0,0.15,0.85,0.3182,positive
+105,continually seek earn publics trust actions words,0.0,0.191,0.809,0.5106,positive
+106,respond changing needs communities timely manner.,0.0,0.0,1.0,0.0,neutral
+107,create new programs services meet identified needs.,0.0,0.189,0.811,0.2732,positive
+108,"""we continuously evaluate improve programs, services, systems, policies.""",0.0,0.244,0.756,0.4404,positive
+109,utilize shared decision-making process.,0.0,0.324,0.676,0.34,positive
+110,include stakeholders decisions affect,0.0,0.0,1.0,0.0,neutral
+111,treat people dignity encourage feelings self-worth,0.0,0.554,0.446,0.8271,positive
+112,promote trust professional courtesy fair treatment,0.0,0.682,0.318,0.8658,positive
+113,recognize support employee student contributions,0.0,0.278,0.722,0.4019,positive
+114,"""we exhibit quality staffing, facilities, programs, services""",0.0,0.0,1.0,0.0,neutral
+115,promote continuous improvement,0.0,0.737,0.263,0.6808,positive
+116,anticipate needs respond accordingly,0.0,0.0,1.0,0.0,neutral
+117,"""we encourage creativity, innovation, risk-taking""",0.0,0.739,0.261,0.8176,positive
+118,utilize systems promote student employee success,0.0,0.474,0.526,0.743,positive
+119,exceed student stakeholder expectations,0.0,0.0,1.0,0.0,neutral
+120,encourage decision-making level implementation,0.0,0.32,0.68,0.5106,positive
+121,encourage interdepartmental collaboration,0.0,0.524,0.476,0.5106,positive
+122,view setbacks learning experiences,0.0,0.0,1.0,0.0,neutral
+123,responsibility professional growth development,0.0,0.245,0.755,0.3818,positive
+124,"""student, staff institute""",0.0,0.0,1.0,0.0,neutral
+125,continuously evaluate improve systems policies,0.0,0.293,0.707,0.4404,positive
+126,establish communicate clearly defined articulated goals,0.0,0.252,0.748,0.4019,positive
+127,objectives,0.0,0.0,1.0,0.0,neutral
+128,ensure work adds value institute society,0.0,0.385,0.615,0.6124,positive
+129,ensure fair equal access,0.0,0.495,0.505,0.5994,positive
+130,recognize address challenges due socioeconomic diversity.,0.0,0.14,0.86,0.0772,positive
+131,provide educational experiences promote greater appreciation,0.0,0.583,0.417,0.8126,positive
+132,diversity,0.0,0.0,1.0,0.0,neutral
+133,implement learning activities integrate diversity topics,0.0,0.0,1.0,0.0,neutral
+134,classroom,0.0,0.0,1.0,0.0,neutral
+135,seek consider multiple points view,0.0,0.0,1.0,0.0,neutral
+136,experienced & dedicated staff retention ratio.,0.0,0.496,0.504,0.7096,positive
+137,faculty involved interdisciplinary research & books publication.,0.0,0.0,1.0,0.0,neutral
+138,adaptive & effective teaching learning process using continuous evaluation.,0.0,0.279,0.721,0.4767,positive
+139,"faculty members involved design, development & implementation curriculum board studies affiliating university.""",0.0,0.0,1.0,0.0,neutral
+140,no. faculty phd less.,0.0,0.0,1.0,0.0,neutral
+141,research publications peer reviewed international journals high impact factor.,0.0,0.0,1.0,0.0,neutral
+142,development web based learning resources & implementation interactive learning.,0.0,0.0,1.0,0.0,neutral
+143,cater need students diverse capabilities.,0.0,0.0,1.0,0.0,neutral
+144,plan work towards implementation erp.,0.0,0.0,1.0,0.0,neutral
+145,four faculty members ph.d. degree 13 pg recognized faculty members.,0.0,0.0,1.0,0.0,neutral
+146,post-graduation program vlsi embedded system design.,0.0,0.0,1.0,0.0,neutral
+147,laboratories state art equipment & modern software tools.,0.0,0.0,1.0,0.0,neutral
+148,faculty contributing design development implementation curriculum board studies affiliating university.,0.0,0.0,1.0,0.0,neutral
+149,effective use ict teaching learning process.,0.0,0.307,0.693,0.4767,positive
+150,student centric functioning mentoring counseling teachers.,0.0,0.0,1.0,0.0,neutral
+151,effective academic monitoring.,0.0,0.608,0.392,0.4767,positive
+152,encouraging conducive atmosphere co-curricular activities.,0.0,0.362,0.638,0.5267,positive
+153,promoting research among students.,0.0,0.385,0.615,0.3612,positive
+154,ability design develop skill development.,0.0,0.277,0.723,0.3182,positive
+155,lack consultancy services.,0.434,0.0,0.566,-0.3182,negative
+156,improvement aptitude communication skill students.,0.0,0.3,0.7,0.4588,positive
+157,moderate employable competency.,0.0,0.0,1.0,0.0,neutral
+158,less research publications peer reviewed international journals high impact factor.,0.0,0.0,1.0,0.0,neutral
+159,less exposure industrial environment.,0.0,0.0,1.0,0.0,neutral
+160,promotion post-doctoral research.,0.0,0.0,1.0,0.0,neutral
+161,conduction fdps sttps.,0.0,0.0,1.0,0.0,neutral
+162,conduction value addition programs.,0.0,0.375,0.625,0.34,positive
+163,organization national/international conferences value addition programs.,0.0,0.255,0.745,0.34,positive
+164,effective participation alumni development.,0.0,0.341,0.659,0.4767,positive
+165,revenue generation consultancy sponsored projects.,0.0,0.0,1.0,0.0,neutral
+166,placement core companies difficult,0.294,0.0,0.706,-0.3612,negative
+167,improvement aptitude communication skills students tasking,0.0,0.25,0.75,0.4588,positive
+168,fail strengthen industry institute interaction.,0.297,0.195,0.508,-0.296,negative
+169,creating awareness employment opportunities e &tc engineering,0.0,0.444,0.556,0.5859,positive
+170,participation summer school industry internship required.,0.0,0.0,1.0,0.0,neutral
+171,weak alumni interaction.,0.592,0.0,0.408,-0.4404,negative
+172,try promote patents.,0.0,0.394,0.606,0.3818,positive
+173,try prepare students placement entry level.,0.0,0.0,1.0,0.0,neutral
+174,try establish linkages reputed industries.,0.0,0.0,1.0,0.0,neutral
+175,online submission assessment assignment unit test uncoordinated,0.0,0.0,1.0,0.0,neutral
+176,setting virtual laboratory programming based assignments fails always,0.219,0.0,0.781,-0.4215,negative
+177,setting private academic cloud.,0.0,0.0,1.0,0.0,neutral
+0,"""i think instead clg clg would choice every department(classroom, facilities ,etc)",0.0,0.132,0.868,0.4404,positive
+1,bvcoew faculty helpful helps students improve.,0.0,0.624,0.376,0.8074,positive
+2,college ones want women college sppu.,0.0,0.355,0.645,0.6705,positive
+3,library book issue open days.,0.0,0.0,1.0,0.0,neutral
+4,campus huge clean along engineering college building classes . teaching staff best.,0.0,0.377,0.623,0.9022,positive
+5,"""library book issue open days.",0.0,0.0,1.0,0.0,neutral
+6,windows condition.,0.325,0.0,0.675,-0.3412,negative
+7,,0.0,0.0,1.0,0.0,neutral
+8,campus bharati vidyapeeth college engineering women mesmerising.the washroom’s developed.,0.0,0.0,1.0,0.0,neutral
+9,college campus washrooms developed water tap bucket.,0.0,0.093,0.907,0.2382,positive
+10,"""college ok. infrastructure nt tht good. teaching staff subjects bt rest !!u knoww . per whole , college okokk""",0.0,0.203,0.797,0.7494,positive
+11,college campus washroom developed.,0.0,0.196,0.804,0.2382,positive
+12,"""feels like school college, boring one. proper classrooms, appropriate liberary campus that's good. facilities worst.""",0.195,0.165,0.64,-0.25,negative
+13,pcs labs except 304 updated start .washroom condition,0.118,0.0,0.882,-0.3412,negative
+14,"""the campus,library & classrooms good.""",0.0,0.367,0.633,0.4404,positive
+15,college campus environment,0.0,0.42,0.58,0.4404,positive
+16,"""1)there specific area meant programs seminars conducted.",0.0,0.0,1.0,0.0,neutral
+17,2)the identity card must like hanging ones wear.,0.0,0.172,0.828,0.3612,positive
+18,"3) toilets must clean water coolers turned on.""",0.0,0.197,0.803,0.4019,positive
+19,"""classroom - classrooms digital, part",0.0,0.225,0.775,0.4404,positive
+20,"college campus - big ground nothing happens like fests, gatherings night time.",0.0,0.16,0.84,0.5023,positive
+21,library - library.,0.0,0.367,0.633,0.4404,positive
+22,"arrange prelims insem mostly endsem.""",0.0,0.0,1.0,0.0,neutral
+23,uptil happy things organised type big festival like colleges.,0.0,0.398,0.602,0.872,positive
+24,major focus academics rather student personal development.,0.0,0.0,1.0,0.0,neutral
+25,we've nss unit.,0.0,0.552,0.448,0.7125,positive
+26,classrooms smart tv good. library huge collection books. overall almosphere good. teaching good.,0.069,0.361,0.57,0.8489,positive
+27,"""first restrooms stinks bad taps individual slot. that's worse. wants unless whole lotta emergency!! atleast sanitary napkin vending machine. hell, medicals nearby!! books",0.359,0.0,0.641,-0.9704,negative
+28,college library hours increased around 7-8 pm,0.0,0.189,0.811,0.2732,positive
+29,"""library - library hours increased",0.0,0.259,0.741,0.2732,positive
+30,,0.0,0.0,1.0,0.0,neutral
+31,worst,0.804,0.0,0.196,-0.6249,negative
+32,,0.0,0.592,0.408,0.4404,positive
+33,nice,0.0,1.0,0.0,0.4215,positive
+34,pcs lab working engineers need work pc's repaired priority basis,0.0,0.0,1.0,0.0,neutral
+35,college quite strict still working welfare students . focus improving student’s academic status.,0.0,0.163,0.837,0.5719,positive
+36,washroom developed women's college sanitary pads available.,0.0,0.0,1.0,0.0,neutral
+37,"""no official mathematics iii staff due problems understanding subject, permanent faculty maths 3 must there.""",0.124,0.0,0.876,-0.481,negative
+38,,0.0,1.0,0.0,0.6249,positive
+39,clg provide attention towards activities pratical knowledge besides studies students fill relax mind clear,0.0,0.186,0.814,0.6705,positive
+40,college focuses academic overall development. fair chances every individual self development.,0.0,0.17,0.83,0.4767,positive
+41,"""their need improvement related washrooms,the labs,and college organise technical events students .""",0.0,0.15,0.85,0.4588,positive
+42,great college academics educated self discipline staff. teachers cooperative supportive .but college lacks nontechincal activities overall development students. mind relaxing activities taken .only academics,0.126,0.086,0.787,-0.4516,negative
+43,major missing boys!!😜😜🤪,0.204,0.0,0.796,-0.4726,negative
+44,frankly speaking..the faculty biasing..they pay attention towards students only..other students given chance show potential prove themselves.,0.125,0.0,0.875,-0.2824,negative
+45,,0.0,1.0,0.0,0.4404,positive
+46,college provides separate ladies hostel facilities feature college.,0.0,0.276,0.724,0.7264,positive
+47,separate gymnasium college encourages girls actively participate various sports activities.,0.0,0.245,0.755,0.6369,positive
+48,"""the teachers great experience professions , issues resolved them""",0.0,0.225,0.775,0.7003,positive
+49,everything,0.0,0.592,0.408,0.4404,positive
+50,"""i neutral opinion college. i've accepted reality i've stay college i'll try survive extreme conditions.",0.0,0.07,0.93,0.2732,positive
+51,,0.0,0.0,1.0,0.0,neutral
+52,neutral opinion college.i accepted college have.not complain also know nobody bothered listen it.our college pay heed complaints.i mind stay another 2 years,0.052,0.081,0.867,-0.103,positive
+53,campus designed aesthetically. infrastructure atmosphere good. staff students supportive always ready help.,0.0,0.312,0.688,0.8716,positive
+54,"""all students satisfied teaching methods, co-curricular activities, career guidance & support services provided students college.""",0.0,0.224,0.776,0.6705,positive
+0,time spent campus always hold special place heart. new law college place met brilliant minds canopy warmest inspiring faculty. proud endorse represent great institution.,0.0,0.374,0.626,0.9769,positive
+1,"""by going college, learning law proper guidance teachers especially dr. sarda sir, became open-minded heritage born into. privileged part institution.""",0.0,0.078,0.922,0.4927,positive
+2,"""my alma mater provided qualified professors learner centric environment. moment spent campus fruitful transitioning skilled professional. extra-curricular cultural activities helped grooming personality shaping career. student bvp campus splendid experience me. staff, teachers, hod, everyone instrumental journey.""",0.0,0.05,0.95,0.5859,positive
+3,"""i heard quote, """"stay hungry, stay foolish"""", learned implement engineering bvducoep, pune.throughout curriculum, got numerous opportunities learn unlearn academics extracurricular eventually, helped build mindset. owe success faculty, batchmates, opportunities got four years.ps: fun mischief special place memories.""",0.053,0.172,0.775,0.8834,positive
+4,"""all faculty members co operative helpful. vidhate sir , autade sir , shinde ma'am, patil sir , kamble sir taught us informatively, games. always miss . guided time time . enjoyed time sirs ma'am . would like thank everyone gave guidance help. enjoyed treking singhgad fort respected vithade sir aurade sir. nevers missed memorable time spent teacher. teachers gave courage moral support difficult time. thank dear teachers.""",0.046,0.229,0.725,0.9747,positive
+5,"""hi all, great time life student bvp college nursing.. especially support extra efforts facultie. also challenges encouraged us face help us become ... proud nursing graduate bvp miss college days""",0.023,0.237,0.74,0.9334,positive
+6,"""engineering consisted fusion theoretical practical knowledge blended well, four course enticing. faculty bharati vidyapeeth university helped enhancing academic interpersonal skills. great cultural experience, get part different societies help upskill. moreover faculty supportive guides well achieve future career goals ambition.?""",0.0,0.171,0.829,0.925,positive
+7,"""being bv (du) college engineering pune amazing experience. learned journey, destination, bv (du) college engineering journey mesmerizing. faculty members supportive initiative develop knowledge skills students. various academic activities campus along helped shine talents overall development. various committees gave opportunity people work experience. learned engineer also human being.""",0.016,0.13,0.854,0.8791,positive
+8,"""while pursuing mds, ups downs - memories stronger person am. staff colleagues supported face every difficult opportunities course. bvp annual fest 3 years cherry cake!""",0.045,0.141,0.814,0.6476,positive
+9,"""being science background m.sc. name, extremely nervous starting brand new chapter field management, support encouragement teachers friends imed eased new world ease. various kinds exposure corporate world help different activities events enhanced understanding world step into. campus college facilities college years life. came imed, pune campus placement tech mahindra 2017 confident, independent polished individual joined. always proud decision move pune join imed.""",0.01,0.237,0.752,0.9904,positive
+10,"""let's start beautiful college days were! maximum credit goes institution. hobbies passion singing, dancing always supported professors, seniors, batchmates juniors""",0.0,0.287,0.713,0.902,positive
+11,although many memories jolt college fests always favourite. especially organised interns. loved part organisational committee heading sponsorship committee....each every fest memorable. way thank college stars 10 girls less family great classmates!,0.061,0.158,0.781,0.8988,positive
+12,events organized imed different experience altogether. helped exploring strength areas.it beautiful journey.,0.0,0.236,0.764,0.7964,positive
+13,"""it golden time graduation. polished flourish future. great memories spent college. many tours, educational activities extra activities brought always new insights happiness. always proud part bharati vidyapeeth family""",0.0,0.181,0.819,0.8957,positive
+14,"""when joined bvimr 5 years experience industry. unlearn many things learned new things. mba journey special me.i happy initiatives taken still running part bvimr today also like media society flash b-plan competition named avsar. president student council bvimr, always tried support students work welfare.""",0.0,0.169,0.831,0.9441,positive
+15,"""i, along friends attended conferences course, implant course conducted college. college staff hardworking always welcomed doubts. part dance committee cultural committee well. college given friends lifetime wonderful amazing memories! part committee last alumni meet, internship going on.""",0.025,0.208,0.767,0.9459,positive
+16,cherished giving interdepartmental seminars getting selected represent college iicpc conference belgaum achievements. also performing college fest always treasured memory.,0.0,0.236,0.764,0.8712,positive
+17,"""those 5 years years life. grateful had, tons memories cherish life. proud student sangli campus.""",0.0,0.315,0.685,0.9169,positive
+18,"""the memory college sessions faculty conducted - professional development, exploring creative side etc.""",0.0,0.253,0.747,0.7964,positive
+19,"""i time bharti, especially time m.d. research. gave confidence knowledge. also trip south enjoyable memory life.""",0.0,0.194,0.806,0.8553,positive
+20,"""bvcoa eminent design institute set within fantastic campus environment pune.the college provides students opportunities part various workshops, exhibitions, study trips state national events like nasa (national assoc. students architecture) help exposure field architecture shape students designer. robust infrastructure colleges providing engineering, fine arts allied design fields, bharati vidyapeeth truly provides students comprehensive knowledge. college infrastructure, faculty support staff work towards supporting students academic extra-curricular needs.which many reasons reminisce college days bvcoa fondness consider time impactful 5 years life. friends",0.0,0.209,0.791,0.9829,positive
+21,"""i mentors met closest friends. back then, entire college like small family spent time together.we encouraged think box engage extra-curricular activities.""",0.0,0.242,0.758,0.9287,positive
+22,"""bharati vidyapeeth college architecture university integral holistic development self crucial age life. college provides collaborative culture working encourages push beyond boundaries.",0.0,0.066,0.934,0.4404,positive
+23,makes understand live comfort zone. college always encouraging cultural co curricular events integral part life. place helped understand sense better living along deeper understanding architecture space planning. faculties immense experience core growth individual student university. faculties helped understand technical aspect necessary understand interpret meaning architecture.,0.0,0.119,0.881,0.886,positive
+24,"space makes ask purpose life learnings. collaboration, coordination team work important traits able develop university. deeper understanding history architecture rooted constant educational tours etched beautiful memories life.architecture university activity happens isolation, involvement many professionals gives deeper understanding building construction services. 5 years bharati vidyapeeth college architecture stepping stone career thoughtfully crafted sure student ready global challenges.",0.015,0.122,0.862,0.9042,positive
+25,,0.0,0.0,1.0,0.0,neutral
+26,past 20 years working bvdumc enriching experience. helped professional growth state art facilities promotion research oriented aptitude. encouraging environment helped personal growth learning new skills. students around campus full energy enthusiasm.,0.0,0.221,0.779,0.9118,positive
+27,"""i post-graduation bvdumcp. great experience. teachers whole faculty encouraging helpful. fortunately years joined faculty. faculty, students administration harmony. medical education unit working efficiently. hospital done great work covid.""",0.0,0.273,0.727,0.9668,positive
+28,work culture.,0.0,0.592,0.408,0.4404,positive
+29,second home. calling home nothing less family. working environment fabulous. support facilities always available college. honor part bharati vidyapeeth. yes 'bharatiy',0.0,0.226,0.774,0.9001,positive
+30,"""beautiful campus, state art building, excellent teaching, expert teaching staff, co-operative non-teaching staff, well behaved students, strict rules""""""",0.0,0.377,0.623,0.8658,positive
+31,bvdumc hospital family me. proud part it.,0.0,0.154,0.846,0.4767,positive
+32,"""as final student bharati vidyapeeth university, college engineering plethora positive experiences college. atmosphere electronics motivating enriching. owe large part professional success faculties dedicated time helping us innovate work solutions. societies clubs form key part overall development students helped enhance communication leadership skills.""",0.0,0.218,0.782,0.9618,positive
+33,"""i associated biochemistry, bv(dtu)mc, pune 14+ years. great privilege work foundation years career. discipline dedication teaching, continuous efforts upgrade teaching learning materials, maintaining student friendly environment always forefront today. well applauded quality teaching shows student performance. many distinction holders biochemistry 1st mbbs exams.another feather cap state artbiochemistry section central clinical laboratory. great platform faculty students learn explore newer horizons basic sciences meet technological advancements.""",0.0,0.135,0.865,0.9552,positive
+34,"""we fortunate gain knowledge life, ayurveda ayurvedic pharmaceutics along pharmacology rasashastra bhaishajyakalpana, bvducoa, three ways. wonderful experience part 4 years. believe whatever achieved far life majorly fallouts knowledge gained department. everyone, dr. wele, dr. pawar, dr. more, vd. gadgil; lab assistants play crucial role molding crude bams graduate well-learned person whole.""",0.032,0.131,0.837,0.8834,positive
+35,"""the crucial 3 years md ayurved like turning point life. exposed huge field rasashastra course. values like open-mindedness adaptability adhering principles ayurved embedded us, helped find myself. sincere gratitude teachers support team rsbkv dept.""",0.018,0.253,0.73,0.9468,positive
+36,"""rsbk dept bharati vidyapeeth university places post graduation rasashastra bhaishajya kalpana vigyana. well equipped instruments infrastructure, helpful us academic years. comprises many ultra-modern facilities preparation medicine research. holds unique position ayurveda teaching institutes due practical training, research output teachings possible consistent efforts faculty department.""",0.0,0.101,0.899,0.8442,positive
+37,"""it gives immense pleasure talk teachers rasashastra bhaishajyakalpana bvducoa. owe entire research approach mindset them. put efforts inculcate values work ethics, discipline, research orientation within us. spacious designed suit post-graduate curricular activities. specific sections; viz quality control lab well-equipped instruments analysis physicochemical parameters raw herbs processed formulations, two laboratories formulation processing ample provision raw materials. separate section incineration metals metalloids provided. teaching techniques engaging thought-provoking. powerpoint presentations helpful tool many topics simpler interesting. field",0.0,0.109,0.891,0.9311,positive
+38,"""i ph.d. bhu completing md bvdu, pune. nowadays, working assistant professor institute ayush medical sciences, lucknow, uttar pradesh. shall always indebted passionate teachers playing important role shaping career life. understood subject ayurveda basis classical well contemporary parameters due learnings rsbk, bvdu, pune.""",0.0,0.108,0.892,0.7964,positive
+39,"""i completed postgraduation 2016. im currently working associate professor d.y. university school ayurveda. dont know possible convey words sense gratitude towards rsbkv dept. want say depth heart interesting fulfilling course was, dynamic teachers it. work teacher, pleased grateful experience wonderful teaching intriguing course help teaching better. thank you.""",0.0,0.307,0.693,0.9921,positive
+40,grateful teachers inculcating view towards ayurveda modern medicine collaboratively helped lot.,0.0,0.12,0.88,0.4588,positive
+41,students constantly motivated encouraged here. blessed well-qualified staff equipment pleasant environment students. entire scenario brings enough upbringings young students field ayurveda.,0.0,0.261,0.739,0.9136,positive
+42,"""our kriya sharir supportive, helpful. staff members well versed basic principles ayurved. students indeed blessed applied knowledge & practical approach.""",0.0,0.271,0.729,0.8896,positive
+43,years learning experience me. thankful healthy & enthusiastic environment provided research work.,0.0,0.352,0.648,0.91,positive
+44,fortune could part department. subject core ayurveda samhita study done here. teachers helpful knowledgeable. always supported every huddle pg study. thankful samhita siddhant bvducoa now.,0.0,0.185,0.815,0.9272,positive
+45,"""i consider lucky opportunity train samhita siddhant highly qualified, knowledgeable yet humble teachers department. rate five five stars teaching staff, library, digital resources, electronic facilities important - passion teach.""",0.0,0.175,0.825,0.882,positive
+46,excellent co-operative along knowledgeable faculties.,0.0,0.497,0.503,0.836,positive
+47,"""department well-equipped dissection hall full-time andwell qualified staff pg teacher recognition faculties. thedepartment well disciplined. teachers student friendly helpfulandtheyareaccessibleinthedepartmentandalwaysreadytosolvestu dent academic difficulty. faculty uses modern teaching aids like lcd,web sources well nontraditional methods like group discussion forteaching.""",0.042,0.215,0.744,0.8402,positive
+48,well equipped department. sincere enthusiastic staff. students receive useful knowledge regarding subject. equipped various instruments museum hall well developed.,0.0,0.382,0.618,0.9001,positive
+49,"""being amongst completed bachelor's, master's, ph. d. single institute always unique, journey innovation healthcare kicked along poona college pharmacy. owe gratitude alma mater enabling us believe special preparing us embrace ever-evolving global challenges. must say poona college pharmacy prestigious pharmacy colleges country, imparting industry-leading education in-house expertise driving excellence.""",0.0,0.161,0.839,0.936,positive
+50,"""overall, great experience lifetime memory pcp. want excellent career pharma field, would highly recommend join pcp. great place learn sharpen skills.""",0.0,0.355,0.645,0.9531,positive
+51,"""bvdu poona college pharmacy helped emerging industry leader. always high ambitions needed program allowed push myself. standard education, knowledge within field something every college provide.""",0.0,0.0,1.0,0.0,neutral
+52,"""through education work experience, found want future. realized professional experience higher education important achieve future goal. pcp given kind platform. proud pcpian.""",0.0,0.131,0.869,0.6697,positive
+53,"""bvdu pcp prepared lead industry. science student, interested pharmacology. college helped leader industry. great associated college.""",0.0,0.214,0.786,0.8271,positive
+54,"""studying bharat vidyapeeth universitywas big dream competentespecially clinical optometry whole aspect binocular vision issue experience had, school optometry found nowhere. bvp place education fun sandwiched.""",0.0,0.145,0.855,0.743,positive
+55,"""it nice see using herbs plants cure many illnesses. combination cure cancer. side, mix ayurvedic technology modern science help cure help us way curing disease. explanation dr neeta given help elaboration research.thank time kindness.""",0.094,0.173,0.733,0.6486,positive
+56,gratified finished college bharati vidyapeeth deemed university new law college. professors experts respective fields provide excellent knowledge students,0.0,0.254,0.746,0.871,positive
+57,"""my 5-year journey nlc, pune, things could happen me. changed individual well professional.""",0.0,0.195,0.805,0.743,positive
+58,atmosphere conducive creative productive learning students freely meet talk faculty members. helps create excellent learning environment.i grateful sarda sir faculty members staff everything.,0.0,0.33,0.67,0.9451,positive
+59,time spent campus always hold special place heart. new law college place met brilliant minds canopy warmest inspiring faculty members.i proud endorse represent great institution.,0.0,0.369,0.631,0.9769,positive
+60,nlc pune given memories. given many opportunities grow. luxury interning part. sarda sir sheetal maam favourite faculty members.,0.0,0.217,0.783,0.8744,positive
+61,"""this college taught law also taught move ahead life tackle outside world.the college faculty taught us study general law procedural law also taught us study jungle law, competition survival fittest.""",0.0,0.0,1.0,0.0,neutral
